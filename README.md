@@ -6,7 +6,7 @@ This repository is dedicated to creating and storing code examples implementing 
 
 ## Layout
 
-Each design pattern has its own branch and short descriptive file
+Each design pattern type has its own branch and each design pattern has its own folder with a short descriptive file
 
 ## Tools
 
