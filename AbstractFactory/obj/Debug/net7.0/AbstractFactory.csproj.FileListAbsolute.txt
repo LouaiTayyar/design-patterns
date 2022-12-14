@@ -1,0 +1,15 @@
+/home/louai/Downloads/design-patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/home/louai/Downloads/design-patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/home/louai/Downloads/design-patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/home/louai/Downloads/design-patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/home/louai/Downloads/design-patterns/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/home/louai/Downloads/design-patterns/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll
