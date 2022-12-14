@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXjNIduhvc0HnEqjuUAvQGHTkvhonTIYaYHUiYCMgGAPGgd6juqOi6x+ofyxDSeGdV1ivc6O8usa32Z0XulObw==",
+  "success": true,
+  "projectFilePath": "/home/louai/Downloads/design-patterns/AbstractFactory/AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "/home/louai/.nuget/packages/microsoft.netcore.app.ref/7.0.0/microsoft.netcore.app.ref.7.0.0.nupkg.sha512",
+    "/home/louai/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.0/microsoft.aspnetcore.app.ref.7.0.0.nupkg.sha512",
+    "/home/louai/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.0/microsoft.netcore.app.host.linux-x64.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
